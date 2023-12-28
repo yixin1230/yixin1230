@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yixin</h1>
+<h1 align="center">Hi , I'm Yixin :frog: </h1>
 <h3 align="center">A passionate software developer student</h3>
 
 
